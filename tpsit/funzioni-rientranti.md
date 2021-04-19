@@ -7,7 +7,7 @@ description: Nell'ambito di linguaggi utilizzati per lo sviluppo di applicazioni
 ### Definizione
 
 > Una funzione si dice **rientrante** se, in seguito alla sua esecuzione, lo stato non è alterato.  
-> **Non rientrante** è quindi una funzione che, quanto terminata, vede lo stato modificato.
+> **Non rientrante** è quindi una funzione che, quando terminata, vede lo stato modificato.
 
 {% code title="Definizione della funzione errore come rientrante" %}
 ```c
