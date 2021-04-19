@@ -52,6 +52,10 @@ if(argc != 3) {
 ```
 {% endcode %}
 
+### Interruzione
+
+Deve essere possibile interrompere in qualsiasi momento della sua evoluzione una funzione rientrante, e le operazioni nel chiamante non defono essere inficiate dal prosieguo della stessa.
+
 ### Funzioni Ricorsive
 
 Per definizione, una funzione ricorsiva sarà sempre rientrante.
