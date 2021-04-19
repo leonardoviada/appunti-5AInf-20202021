@@ -1,8 +1,8 @@
 # Sistema Distribuito
 
-> E' un sistema costituito da un insieme di applicazione logicamente indipendenti, che collaborano tra loro per portare avanti obiettivi comuni.
+> E' un sistema costituito da un insieme di applicazioni logicamente indipendenti, che collaborano tra loro per portare avanti obiettivi comuni.
 >
-> Queste applicazioni logiche comunicano tra loro attraverso sistemi di comunicazione hardware e software.
+> Queste applicazioni comunicano tra loro attraverso tecnologie hardware e software.
 
 ### Ruoli \(o personaggi\)
 
@@ -11,7 +11,7 @@
 * **Attore:** entità che a seconda dei casi assume la funzione di client o di server
 
 {% hint style="danger" %}
-I ruoli dei sistemi distribuiti **sono processi**, non componenti dell'host
+I ruoli presenti all'interno sistemi distribuiti **sono processi**, non componenti dell'host
 {% endhint %}
 
 ### Proprietà
